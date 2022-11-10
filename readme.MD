@@ -59,6 +59,7 @@ DELETE /api/trips/1
 - SQLi;
 - Checar IDOR/BOLA;
 
+###
 
 
 
